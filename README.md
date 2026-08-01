@@ -101,7 +101,37 @@
 
 </p>
 
----
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nitigya23&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=nitigya23&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitigya23&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitigya23&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitigya23&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitigya23&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitigya23&theme=tokyonight" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitigya23&theme=github-dark&hide_border=true" />
+</p>
+
+
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
