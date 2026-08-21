@@ -78,17 +78,6 @@
 
 <br>
 
-# 📊 GitHub Analytics
-
-
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=nitigya23&theme=tokyonight&hide_border=true&cache_bust=2"/>
-</p>
-
-<!-- If the streak card above keeps failing, delete it and use this fallback instead:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitigya23&theme=tokyonight&hide_border=true"/>
--->
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitigya23&theme=tokyo-night&hide_border=true"/>
